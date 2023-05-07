@@ -10,7 +10,7 @@ This project is the creation of the back end for an e-commerce site. This applic
 - [License](#license)
 
 ## Installation
-The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run mysql -u root -p and enter password from .env file. Then source the schema.sql. To seed the file run npm run seed. Finally to connect to the server run npm start.
+The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run mysql -u root -p and enter password from .env file. Then source the schema.sql. To seed the file run npm run seed. Finally to connect to the server run npm run start server. Application uses Nodemon. 
 
 ## Usage
 This application will allow users to view, add, edit, and delete categories, products, and tags.
