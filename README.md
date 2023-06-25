@@ -8,6 +8,7 @@ This project is the creation of the back end for an e-commerce site. This applic
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [WalkThrough](#walkthrough)
 
 ## Installation
 The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run mysql -u root -p and enter password from .env file. Then source the schema.sql. To seed the file run npm run seed. Finally to connect to the server run npm run start server. Application uses Nodemon. 
@@ -17,6 +18,9 @@ This application will allow users to view, add, edit, and delete categories, pro
 
 ## Tests
 There are no tests for this application.
+
+## WalkThrough
+-[WalkThrough](https://drive.google.com/file/d/19eLs3xrN0kUABsKfDWAQGosBkUnjHpzJ/view?usp=sharing) 
 
 ## Questions
 If you have any questions about this projects, please contact me directly at oscarleal234@gmail.com. You can view more of my projects at https://github.com/oscarl214.
